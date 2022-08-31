@@ -46,8 +46,8 @@ Errors:
 
 </details>
 
-## Buy Ram
-Ram is basically your storage space on chain. Read more in our [CPU Ram Bandwidth](../../Guides/Deep%20Dive/CPU-Network-RAM-Bandwidth) Guide.  
+## Buy RAM
+RAM is basically your storage space on chain. Read more in our [CPU Ram Bandwidth](../../Guides/Deep%20Dive/CPU-Network-RAM-Bandwidth) Guide.  
 ```typescript
 nco.buyRam({
         user: "nakamoto.io", 
