@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_2=self.webpackChunkdocs_2||[]).push([[51],{2610:e=>{e.exports=JSON.parse('{"title":"Overview","description":"General Information about Newcoin","slug":"/category/overview","permalink":"/category/overview","navigation":{"previous":{"title":"What is Newcoin?","permalink":"/"},"next":{"title":"Vision","permalink":"/Overview/Vision"}}}')}}]);
